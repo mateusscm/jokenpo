@@ -4,4 +4,4 @@ Pequeno app do jogo chamado JOKENPO para fortalecimento de algumas bases de Reac
 
 ---
 
-Small game application called JOKENPO to strengthen some React bases, such as: props, state and componentization. Development made from Udemy classes, course "Multiplatform Android / IOS Presenter with Reaction and Redux", published by Jorge Sant Ana.
+Small game application called JOKENPO to strengthen some React bases, such as: props, state and componentization. Development made from Udemy classes, course "Desenvolvedor Multiplataforma Android/IOS com React e Redux", published by Jorge Sant Ana.
